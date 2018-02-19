@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1466540126 source:/home/ubuntu/UOS/tarWnb/file_structure.c
+	"file_structure.h"
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+
+1466712347 /home/ubuntu/UOS/tarWnb/file_structure.h
+	<stdbool.h>
+
+1466712515 source:/home/ubuntu/UOS/tarWnb/main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+	<dirent.h>
+	<sys/stat.h>
+	"file_structure.h"
+
